@@ -4,19 +4,30 @@ body {
 }
 
 .calculatorContainer {
-    background-color: black;
     grid-template-rows: .5fr 1fr;
     display: grid;
     padding: 2rem;
     width: 10rem;
     height: 40rem;
+    margin-left: 10%;
+}
+.numberDisplayContainer {
+    display: grid;
+    align-items: end;
+    justify-items: end;
+    padding-right: 1.5rem;
+}
+
+#numberDisplay {
+    color: white; 
+    font-size: 5rem;
 }
 
 .calculatorItemsContainer {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: .5rem;
-    background-color: #000000;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    width: 20rem;
+    gap: .9rem;
     padding: 10px;
 }
 
@@ -24,11 +35,6 @@ body {
     border-radius: 50%;
     padding: 1rem;
     text-align: center;
-}
-
-#numberDisplay {
-    color: white; 
-    font-size: 5rem;
 }
 
 .light-gray {
@@ -47,11 +53,6 @@ body {
 
 #zero {
     grid-column: span 2;
+    border-radius: 30px;
 }
 
-.numberDisplayContainer {
-    display: grid;
-    align-items: end;
-    justify-items: end;
-    padding-right: 2.5rem;
-}
