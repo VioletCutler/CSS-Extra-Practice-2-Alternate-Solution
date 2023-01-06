@@ -1,0 +1,18 @@
+.outer-shell {
+    width: 50vw;
+    background-color: blue;
+    border: 1vh dashed;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.middle-shell {
+    border: 1rem solid red;
+    border-radius: 5px;
+}
+
+.inner-shell {
+    background-color: green;
+    color: gold;
+    padding: 1px;
+}
