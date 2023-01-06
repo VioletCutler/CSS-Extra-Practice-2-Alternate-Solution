@@ -7,18 +7,19 @@ Before getting stareted:
 https://www.w3schools.com/css/css_grid.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 
-Exercise One: Create functioning layouts in CSS grid and CSS flex
+*Exercise One: Create functioning layouts in CSS grid*
 
 For this exercise your task is to replicate the provided image of a basic calculator using grid
  
-Here is the checklist for this section:
+*Here is the checklist for this section:*
 1.	The layout should match the provided image
+    https://help.apple.com/assets/634D93C867B48F12442A1784/634D93C967B48F12442A1792/en_US/91433b868ad67ee9e2a087cca75de95c.png
 2.	The color scheme may be altered but some color palette should be used
 3.	Buttons do not have to be circles but at the very least must be rounded
 
-Exercise Two: Demonstrate the use of various kinds of CSS units (px, em, rem, vw, vh, %, etc)
+*Exercise Two: Demonstrate the use of various kinds of CSS units (px, em, rem, vw, vh, %, etc)*
 
-Here is the checklist for this section:
+*Here is the checklist for this section:*
 Create a file to hold the css instructions and link it to the exercise2 html file
 1.	Outer shell set:
         •	Width: 50% view width
@@ -41,10 +42,10 @@ Create a file to hold the css instructions and link it to the exercise2 html fil
         •	Padding: 1px
 
 
-Exercise Three: Demonstrate the use of more advanced CSS selectors: media queries, nth selectors, !important, hierarchical selectors
+*Exercise Three: Demonstrate the use of more advanced CSS selectors: media queries, nth selectors, !important, hierarchical selectors*
 
 Use a style element in the head of the html file to style the file.
-Here is the checklist for this section:
+*Here is the checklist for this section:*
 
 Modify the exercise3 html file so that when the screen is 500px or greater:
     •	The background is blue
@@ -56,3 +57,8 @@ When the screen width is less than 500px:
 
 The always on should be highlighted in red regardless of screen size
 All text should be centered
+
+*Exercise Four: Demonstrate the use of more advanced CSS rules: box-sizing, backgrounds, DOM ordering, z-index, transitions, calc, hover, common shorthands*
+
+*Here is the checklist for this section:*
+
