@@ -58,7 +58,7 @@ When the screen width is less than 500px:
 The always on should be highlighted in red regardless of screen size
 All text should be centered
 
-*Exercise Four: Demonstrate the use of more advanced CSS rules: box-sizing, backgrounds, DOM ordering, z-index, transitions, calc, hover, common shorthands*
+Exercise Four: Demonstrate the use of more advanced CSS rules: box-sizing, backgrounds, DOM ordering, z-index, transitions, calc, hover, common shorthands Box sizing: https://www.w3schools.com/css/css3_box-sizing.asp https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing transitions: https://www.w3schools.com/cssref/css3_pr_transition.php calc: https://developer.mozilla.org/en-US/docs/Web/CSS/calc shorthand: https://www.w3schools.com/css/css_border_shorthand.asp
 
-*Here is the checklist for this section:*
+Here is the checklist for this section: • Use box sizing on the sample div in exercise 4 • Set an image inside the sample1 • Set ordering so sample2 is displayed before sample1 • Add an image to sample2 • Set sample2 so the image hides the text • Create a transition on hover within sample3 • Utilize calc function to set height and width for the hover transition • Use shorthand where applicable to shorten CSS commands
 
